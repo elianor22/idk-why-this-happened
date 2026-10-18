@@ -1,0 +1,7 @@
+out/
+*.mp4
+*.mkv
+*.wav
+__pycache__/
+.claude/
+film/shaders/s1_dbg.frag
